@@ -2,15 +2,7 @@
   "name": "Daemon Chrome",
   "version": "1.0",
   "description": "Keep Chrome running when all windows and tabs are closed",
-  "permissions": ["background"],
-  "page_action": {
-    "default_popup": "popup.html",
-    "default_icon": {
-      "16": "images/get_started16.png",
-      "32": "images/get_started32.png",
-      "48": "images/get_started48.png",
-      "128": "images/get_started128.png"
-    }
+  "permissions": ["background"]
   },
   "icons": {
     "16": "images/get_started16.png",
