@@ -1,6 +1,6 @@
 {
   "name": "Background",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "Keep Chrome running when all windows and tabs are closed",
   "permissions": ["background"],
   "icons": {
